@@ -4,16 +4,21 @@
 **Brayden835/brayden835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi there 👋, my name is Brayden Sparks
-I'm a college gradutate and a professionally trained Software Developer. I have been working as a full stack developer for almsot 4 years in the .NET/Microsft/Azure ecosystem. 
+# Hi there 👋, my name is Brayden Sparks<br/>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
+## About Me
+I'm a college gradutate and a professionally trained Software Developer. I have been working as a full stack developer for almsot 4 years in the .NET/Microsft/Azure ecosystem. 
 - 🎓 B.S. **<ins>Computer Science</ins>** from the University of Central Missouri
 - 🔭 I'm currently working in Robotic Process Automation (RPA) primarily using **<ins>.NET, VB.NET and PEGA.</ins>**
 - 🌱 Working on completing my AWS Certified Developer - Associate certification.
 - ⚡ Outside work you'll find me golfing 🏌🏽‍♀️, lifting weights 🏋🏽‍♂️, and watching soccer ⚽.
 - 🌆 Currently located in Kansas City, Missouri
   
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,3 +34,5 @@ I'm a college gradutate and a professionally trained Software Developer. I have 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#Socials
